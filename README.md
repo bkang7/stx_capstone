@@ -8,5 +8,10 @@ A Jupyter notebook with the code used for the project was uploaded in this Githu
 In order to execute the notebook, the following libraries are required: tifffile, pandas, numpy, geojson, json, math, matplotlib, tqdm, shutil,glob, os, random, typing, sklearn.metrics, mpl_toolkits, torch and albumentations. 
 Spatial Transcriptomics data and whole slide images are stored in the 'data_root'; once data is publicalluy available, 'data_root' should be changed to the directory where the data is stored.
 
+Jupyter notebook: STX_capstone_main.ipynb
+Groovy script: mask_export_groovy_v3_individual_class.groovy
+
+Fro the groovy script, in QuPath, Ctrl+[ will open script editor and the groovy script file can be loaded.  
+
 # Data access statement 
 Data used in this project are from priovately owned data by my current employer. We are planning to publish this data next year. Once it is published, the data will be available to the public. 
